@@ -8,4 +8,5 @@ print("welcome to buldhana"
 print("good boy")
 
 
-print("jau dya na")
+def func():
+    print("Hello world")
