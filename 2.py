@@ -6,3 +6,6 @@ y = 200
 print("welcome to buldhana"
 
 print("good boy")
+
+
+print("jau dya na")
